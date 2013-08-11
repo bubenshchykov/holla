@@ -1,0 +1,13 @@
+{
+  "name": "holla",
+  "version": "0.0.1",
+  "description": "webrtc signaling server and demo with holla abstraction",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+     "express": "",
+     "holla": ""
+  }
+}
