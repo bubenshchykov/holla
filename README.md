@@ -16,5 +16,6 @@ Rtc clients require "signaling server" for handshakes and meta-information excha
 
 todo
 ====
+- add minimum video function (mute, drop call, full screen)
 - add chat
 - beautify :)
